@@ -1,0 +1,10 @@
+C:\Users\Vitaly\source\repos\dunvit\GameBoard\BoardExample\BoardExample\bin\Debug\BoardExample.exe.config
+C:\Users\Vitaly\source\repos\dunvit\GameBoard\BoardExample\BoardExample\bin\Debug\BoardExample.exe
+C:\Users\Vitaly\source\repos\dunvit\GameBoard\BoardExample\BoardExample\bin\Debug\BoardExample.pdb
+C:\Users\Vitaly\source\repos\dunvit\GameBoard\BoardExample\BoardExample\obj\Debug\BoardExample.csprojAssemblyReference.cache
+C:\Users\Vitaly\source\repos\dunvit\GameBoard\BoardExample\BoardExample\obj\Debug\BoardExample.Form1.resources
+C:\Users\Vitaly\source\repos\dunvit\GameBoard\BoardExample\BoardExample\obj\Debug\BoardExample.Properties.Resources.resources
+C:\Users\Vitaly\source\repos\dunvit\GameBoard\BoardExample\BoardExample\obj\Debug\BoardExample.csproj.GenerateResource.cache
+C:\Users\Vitaly\source\repos\dunvit\GameBoard\BoardExample\BoardExample\obj\Debug\BoardExample.csproj.CoreCompileInputs.cache
+C:\Users\Vitaly\source\repos\dunvit\GameBoard\BoardExample\BoardExample\obj\Debug\BoardExample.exe
+C:\Users\Vitaly\source\repos\dunvit\GameBoard\BoardExample\BoardExample\obj\Debug\BoardExample.pdb
